@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"alwaysStrict": true,
+		"baseUrl": ".",
+		"esModuleInterop": true,
+		"lib": ["DOM", "ES2019"],
+		"module": "CommonJS",
+		"moduleResolution": "node",
+		"outDir": "dist",
+		"target": "ES2017",
+	}
+}
